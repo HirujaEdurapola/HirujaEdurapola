@@ -1,10 +1,10 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Hiruja Edurapola
-========================================================================================================================================
+<h1 align="center"> <img src="hi.gif" width="50px"> I'm Hiruja Edurapola</h1>
+<h3 align="center">Web Developer 💻 | Data Anaylst 🔍 | Ethical Hacker 👩‍💻 | Inventor 💡</h3>
+<!-- <h3>Web Developer and Designer</h3> -->
 
-<img src="bd5fad96-2f39-408c-8a44-a9d4b2028b69.webp" height="300px" style="text-align: center;">
-<!--Web Developer and Designer
---------------------------
--->
+
+<h1 align="center"><img src="bd5fad96-2f39-408c-8a44-a9d4b2028b69.webp" height="300px" style="text-align: center;"></h1>
+
 
 Hi, I’m Hiruja Edurapola. I’m a self-taught web and web app developer with expertise in AI and ML. I am a Google-certified data analyst and software developer specializing in HTML, CSS, and JavaScript. I am currently expanding my knowledge in Python and C#
 
