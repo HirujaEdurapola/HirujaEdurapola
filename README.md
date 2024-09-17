@@ -1,5 +1,7 @@
 <h1 align="center"> <img src="hi.gif" width="50px"> I'm Hiruja Edurapola</h1>
-<h3 align="center">Web Developer 💻 | Data Anaylst 🔍 | Ethical Hacker 👩‍💻 | Inventor 💡</h3>
+<!--<h3 align="center">Web Developer 💻 | Data Anaylst 🔍 | Ethical Hacker 👩‍💻 | Inventor 💡</h3>-->
+<h3 align="center">Web Developer 💻 | Data Anaylst 🔍 | Chess Player ♟️ | Inventor 💡</h3>
+
 <!-- <h3>Web Developer and Designer</h3> -->
 
 
@@ -48,8 +50,8 @@ src="https://img.shields.io/github/followers/HirujaEdurapola?logo=github&style=f
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/hirujaedurapola"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
-</ul>
+<a href="https://www.ko-fi.com/hirujaedurapola"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+
+
